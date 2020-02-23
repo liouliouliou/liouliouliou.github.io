@@ -1,0 +1,150 @@
+layout: page
+title: "Contact"
+permalink: /contact/
+
+
+<!DOCTYPE html>
+<html class="js" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<title>Maria Lioutaia – Writer</title>
+
+<script type="text/javascript" async="" src="./content/analytics.js"></script>
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link rel="dns-prefetch" href="http://s.w.org/">
+<link rel="stylesheet" id="formidable-css" href="./content/formidableforms.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="./content/style.min.css" type="text/css" media="all">
+<link rel='stylesheet' id='rams_googleFonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C500%2C600%2C700%7CCrimson+Text%3A400%2C700%2C400italic%2C700italic&#038;ver=1' type='text/css' media='all' />
+<link rel="stylesheet" id="rams_style-css" href="./content/style.css" type="text/css" media="all">
+<script type="text/javascript" src="./content/jquery.js"></script>
+<script type="text/javascript" src="./content/jquery-migrate.min.js"></script>
+<link rel="canonical" href="http://www.marialioutaia.com/">
+<link rel="shortlink" href="http://www.marialioutaia.com/">
+		<script async="" src="./content/js"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-60260000-2');
+		</script>
+
+<!-- Customizer CSS -->
+<style type="text/css">body a { color: #7599b5; }body a:hover { color: #7599b5; }.sidebar { background: #7599b5; }.flex-direction-nav a:hover { background-color: #7599b5; }a.post-quote:hover { background: #7599b5; }.post-title a:hover { color: #7599b5; }.post-content a { color: #7599b5; }.post-content a:hover { color: #7599b5; }.post-content a:hover { border-bottom-color: #7599b5; }.post-content a.more-link:hover { background: #7599b5; }.post-content input[type="submit"]:hover { background: #7599b5; }.post-content input[type="button"]:hover { background: #7599b5; }.post-content input[type="reset"]:hover { background: #7599b5; }.post-content .has-accent-color { color: #7599b5; }.post-content .has-accent-background-color { background-color: #7599b5; }#infinite-handle span:hover { background: #7599b5; }.page-links a:hover { background: #7599b5; }.post-meta-inner a:hover { color: #7599b5; }.add-comment-title a { color: #7599b5; }.add-comment-title a:hover { color: #7599b5; }.bypostauthor .avatar { border-color: #7599b5; }.comment-actions a:hover { color: #7599b5; }.comment-header h4 a:hover { color: #7599b5; }#cancel-comment-reply-link { color: #7599b5; }.comments-nav a:hover { color: #7599b5; }.comment-form input[type="submit"]:hover { background-color: #7599b5; }.logged-in-as a:hover { color: #7599b5; }.archive-nav a:hover { color: #7599b5; }</style><!--/Customizer CSS-->
+<link rel="icon" href="./content/cropped-cropped-fiercefox-01-150x150-32x32.png" sizes="32x32">
+<link rel="icon" href="./content/cropped-cropped-fiercefox-01-150x150-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="./content/cropped-cropped-fiercefox-01-150x150-180x180.png">
+<meta name="msapplication-TileImage" content="./content/cropped-cropped-fiercefox-01-150x150-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+
+.post-header {
+	display: none;
+}
+
+#boldplease {
+	color: white;
+}
+
+.credits {
+	display: none;
+}		</style>
+
+	</head>
+
+	<body class="home page-template-default page page-id-7 no-featured-image">
+
+
+		<div class="sidebar bg-mint">
+
+			<div class="sidebar-inner">
+
+
+					<h1 class="blog-title">
+						<a href="http://www.marialioutaia.com/" title="Maria Lioutaia — Writer" rel="home">Maria Lioutaia</a>
+					</h1>
+
+
+				<a class="nav-toggle hidden" title="Click to view the navigation" href="http://www.marialioutaia.com/#">
+
+					<div class="bars">
+
+						<div class="bar"></div>
+						<div class="bar"></div>
+						<div class="bar"></div>
+
+						<div class="clear"></div>
+
+					</div>
+
+					<p>
+						<span class="menu">Menu</span>
+						<span class="close">Close</span>
+					</p>
+
+				</a>
+
+				<ul class="main-menu">
+
+					<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="http://twitter.com/mvfierce">Twitter <span id="boldplease">@mvfierce</span></a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://www.marialioutaia.com/contact/">or <span id="boldplease">contact</span> otherwise</a></li>
+
+				 </ul>
+
+				 <p class="credits">Theme by <a href="https://www.andersnoren.se/">Anders Norén</a></p>
+
+				 <div class="clear"></div>
+
+			</div><!-- .sidebar-inner -->
+
+		</div><!-- .sidebar -->
+
+		<ul class="mobile-menu bg-dark hidden" style="display: none;">
+
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="http://twitter.com/mvfierce">Twitter <span id="boldplease">@mvfierce</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://www.marialioutaia.com/contact/">or <span id="boldplease">contact</span> otherwise</a></li>
+
+		 </ul>
+
+		<div class="wrapper" id="wrapper">
+
+			<div class="section-inner wrapper-inner">
+<div class="content">
+
+
+			<div id="post-7" class="single post post-7 page type-page status-publish hentry no-featured-image">
+
+
+				<div class="post-inner">
+					
+					<div class="post-header">
+
+																		
+						<h1 class="post-title">Contact</h1>																
+					</div><!-- .post-header -->
+						
+					<div class="post-content">
+						<p>You can reach Maria at: <strong>lioutm</strong> [at] <strong>gmail</strong> [dot] <strong>com</strong></p>
+
+
+<p></p>
+					</div><!-- .post-content -->
+					
+					<div class="clear"></div>
+				
+				</div><!-- .post-inner -->
+
+
+
+			</div><!-- .post -->
+
+
+
+</div><!-- .content -->
+
+	</div><!-- .wrapper -->
+
+</div><!-- .wrapper-inner -->
+<script type="text/javascript" src="./content/global.js"></script>
+</body>
+</html>
